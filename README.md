@@ -1,14 +1,12 @@
-## Hi there 👋
+## Hi there and nice to meet you 🍻👋
 
-Nice to meet you 🍻
-
-My name is Joona Piirainen. I have been coding for about a year now and exited to see where things will go from here.
 
 ### 🔭 I’m currently working  with...
-- mostly JavaScript and TypeScript
+- TypeScript
+- Haskell
 
 ### 🌱 I’m currently learning...
-- Haskell
+- All things functional programming
 
 ## 📫 How to reach me:
 - contact form on my [website](japiirainen.com)
