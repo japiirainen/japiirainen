@@ -9,5 +9,5 @@
 - All things functional programming
 
 ## 📫 How to reach me:
-- contact form on my [website](japiirainen.com)
+- contact form on my [website](https://japiirainen.com)
 
