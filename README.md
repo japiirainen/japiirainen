@@ -3,7 +3,7 @@
 
 ### Currently working  with...
 - TypeScript
-- Clojure
+- Scala
 - Haskell
 
 ### Currently learning...
