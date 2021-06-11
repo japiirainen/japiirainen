@@ -7,7 +7,7 @@
 - Haskell
 
 ### Currently learning...
-- All things functional programming
+- All things (statically-typed) functional programming
 
 ## 📫 How to reach me:
 - contact form on my [website](https://japiirainen.com)
