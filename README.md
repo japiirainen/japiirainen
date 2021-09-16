@@ -3,7 +3,6 @@
 
 ### Currently working  with...
 - TypeScript
-- Scala
 - Haskell
 
 ### Currently learning...
