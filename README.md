@@ -1,7 +1,7 @@
 🕶🕶
 ### Hi, I'm Joona! ✌️
-- a software engineer @[Reaktor](https://www.reaktor.com/)
-- a big fan of functional programming λ
+- software engineer @[Reaktor](https://www.reaktor.com/)
+- a fan of functional programming λ
 
 ### Some of my hobby projects
 - [**lines**](https://github.com/japiirainen/lines), CLI tool for counting lines of any project. Built in Haskell.
