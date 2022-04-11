@@ -3,6 +3,7 @@
 - a fan of functional programming λ
 
 ### Some of my hobby projects
+- [**vl**](https://github.com/japiirainen/vl), Tool for writing shell scripts in TypeScript.
 - [**lines**](https://github.com/japiirainen/lines), CLI tool for counting lines of any project. Built in Haskell.
 - [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄
   - [2021](https://github.com/japiirainen/aoc-2021), solutions to all 25 prombems in Haskell and Python.
