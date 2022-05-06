@@ -1,4 +1,4 @@
-### Hi, I'm Joona! ✌️
+### Hi, I'm Joona
 - software engineer @[Reaktor](https://www.reaktor.com/)
 - a fan of functional programming λ
 
