@@ -1,7 +1,7 @@
 ### Hi, I'm Joona
 - software engineer @[Reaktor](https://www.reaktor.com/)
 - functional programmer λ
-- interested in dependent type theory and formal verification
+- interested in dependent type theory, category theory and formal verification
 
 ### Some of my hobby projects
 - [**vl**](https://github.com/japiirainen/vl), Tool for writing shell scripts in TypeScript.
