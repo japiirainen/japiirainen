@@ -1,5 +1,5 @@
-### Hi, I'm Joona
-- software engineer @[Reaktor](https://www.reaktor.com/)
+### Hi, I'm Joona Piirainen
+- software engineer @[Reaktor](https://www.reaktor.com/), Finland
 - interested in dependent type theory, category theory and formal verification
 
 ### Some of my hobby projects
