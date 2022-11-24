@@ -1,4 +1,3 @@
-### Hi, I'm Joona Piirainen
 - software engineer @[Reaktor](https://www.reaktor.com/), Finland
 - interested in dependent type theory, category theory and formal verification
 
