@@ -1,5 +1,5 @@
 I work as a software engineer @[Reaktor](https://www.reaktor.com/), Finland
-In the field of computer science im interested in compilers, dependent type theory, category theory and formal verification.
+In the field of computer science im interested in compilers, type-theory, category theory and formal verification.
 
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
