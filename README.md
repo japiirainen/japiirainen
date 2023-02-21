@@ -1,4 +1,4 @@
-I work as a software engineer @[Reaktor](https://www.reaktor.com/), Finland
+I work as a developer @[Reaktor](https://www.reaktor.com/), Finland
 In the field of computer science im interested in compilers, type-theory, category-theory and the use of formal methods.
 
 ### Some of my hobby projects
