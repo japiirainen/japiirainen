@@ -1,5 +1,5 @@
 I work as a developer @[Reaktor](https://www.reaktor.com/), Finland
-In the field of computer science im interested in compilers, type-theory, category-theory and the use of formal methods.
+I'm interested in compilers, type-theory, category-theory and math in general.
 
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
