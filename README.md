@@ -10,6 +10,7 @@ Broadly, I'm interested in compilers, type-theory, category-theory and math in g
   - [2021](https://github.com/japiirainen/aoc-2021), solutions to all 25 days in Haskell and Python.
   - [2020](https://github.com/japiirainen/aoc-2020), solutions to all 25 days in python.
   - [2015](https://github.com/japiirainen/aoc-2015), solutions to all 25 days in Clojure.
+- [***gists***](https://github.com/japiirainen/gists), my github gists as a single repository.
 - [**Myy**](https://github.com/japiirainen/myy), a lambda calculus interpreter.
 - [**js-quiz**](https://github.com/japiirainen/js-quiz), A website for learning Javascript.
 - [**oluet-api**](https://github.com/japiirainen/go-oluet-api), Graphql API for querying all kinds of beer and other drinks!
