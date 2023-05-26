@@ -1,4 +1,4 @@
-I work as a developer @[Reaktor](https://www.reaktor.com/), Finland
+I work as a developer @[Reaktor](https://www.reaktor.com/), Finland.
 Broadly, I'm interested in compilers, type-theory, category-theory and math in general.
 
 ### Some of my hobby projects
