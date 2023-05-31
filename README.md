@@ -7,7 +7,7 @@ Broadly, I'm interested in compilers, type-theory, category-theory and math in g
 - [**lines**](https://github.com/japiirainen/lines), CLI tool for counting lines of any project. Built in Haskell.
 - [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄
   - [2015](https://github.com/japiirainen/aoc-2015), solutions to all 25 days in Clojure.
-  - [2016](https://github.com/japiirainen/aoc-2016), WIP, plan to use a different language for each day.
+  - [2016](https://github.com/japiirainen/aoc-2016), solutions in 25 different programming languages.
   - [2020](https://github.com/japiirainen/aoc-2020), solutions to all 25 days in python.
   - [2021](https://github.com/japiirainen/aoc-2021), solutions to all 25 days in Haskell and Python.
   - [2022](https://github.com/japiirainen/aoc-2022), solutions to all 25 days in Haskell.
