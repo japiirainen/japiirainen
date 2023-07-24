@@ -11,6 +11,7 @@ Broadly, I'm interested in compilers, type-theory, category-theory and math in g
 - [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄
   - [2015](https://github.com/japiirainen/aoc-2015), solutions to all 25 days in Clojure.
   - [2016](https://github.com/japiirainen/aoc-2016), solutions in 25 different programming languages.
+  - [2017](https://github.com/japiirainen/aoc-2017), WIP, solutions Agda.
   - [2020](https://github.com/japiirainen/aoc-2020), solutions to all 25 days in python.
   - [2021](https://github.com/japiirainen/aoc-2021), solutions to all 25 days in Haskell and Python.
   - [2022](https://github.com/japiirainen/aoc-2022), solutions to all 25 days in Haskell.
