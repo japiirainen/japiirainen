@@ -1,5 +1,5 @@
 I work as a developer @[Reaktor](https://www.reaktor.com/), Finland.
-Broadly, I'm interested in compilers, type-theory, category-theory and math in general.
+Broadly, I'm interested in compilers, types and math.
 
 ### System configurations
 - My development macbook [**configuration**](https://github.com/japiirainen/darwin).
