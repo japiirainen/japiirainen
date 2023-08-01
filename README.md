@@ -1,5 +1,5 @@
 I work as a developer @[Reaktor](https://www.reaktor.com/), Finland.
-Broadly, I'm interested in compilers, types and math.
+Broadly, I'm interested in writing correct software.
 
 ### System configurations
 - My development macbook [**configuration**](https://github.com/japiirainen/darwin).
