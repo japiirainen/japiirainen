@@ -1,12 +1,6 @@
 I work as a developer @[Reaktor](https://www.reaktor.com/), Finland.
 Broadly, I'm interested in writing correct software.
 
-### System configurations
-- My development macbook [**configuration**](https://github.com/japiirainen/darwin).
-
-### Sources for my personal website/blog
-- [*japiirainen.github.io*](https://github.com/japiirainen/japiirainen.github.io)
-
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
 - [**vl**](https://github.com/japiirainen/vl), Tool for writing shell scripts in TypeScript.
@@ -23,3 +17,9 @@ Broadly, I'm interested in writing correct software.
 - [**Myy**](https://github.com/japiirainen/myy), a lambda calculus interpreter.
 - [**js-quiz**](https://github.com/japiirainen/js-quiz), A website for learning Javascript.
 - [**oluet-api**](https://github.com/japiirainen/go-oluet-api), Graphql API for querying all kinds of beer and other drinks!
+
+### System configurations
+- My development macbook [**configuration**](https://github.com/japiirainen/darwin).
+
+### Sources for my personal website/blog
+- [*japiirainen.github.io*](https://github.com/japiirainen/japiirainen.github.io)
