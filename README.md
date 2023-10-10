@@ -22,4 +22,4 @@ Broadly, I'm interested in writing correct software.
 - My development macbook [**configuration**](https://github.com/japiirainen/darwin).
 
 ### Sources for my personal website/blog
-- [*japiirainen.github.io*](https://github.com/japiirainen/japiirainen.github.io)
+- Hakyll [*site*](https://github.com/japiirainen/japiirainen.github.io)
