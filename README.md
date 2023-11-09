@@ -4,7 +4,7 @@ Broadly, I'm interested in writing correct software.
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
 - [**vl**](https://github.com/japiirainen/vl), Tool for writing shell scripts in TypeScript.
-- [**lines**](https://github.com/japiirainen/lines), CLI tool for counting lines of any project. Built in Haskell.
+- [**lines**](https://github.com/japiirainen/lines), CLI tool for generating line counts of a project.
 - [**AdventOfCode**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december. 🎄
   - [2015](https://github.com/japiirainen/aoc-2015), solutions to all 25 days in Clojure.
   - [2016](https://github.com/japiirainen/aoc-2016), solutions in 25 different programming languages.
