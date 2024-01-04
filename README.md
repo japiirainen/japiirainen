@@ -1,4 +1,4 @@
-I work as a developer @[Reaktor](https://www.reaktor.com/), Finland.
+I work as a developer @[Adalyon](https://www.adalyon.com/).
 Broadly, I'm interested in writing correct software.
 
 ### Some of my hobby projects
