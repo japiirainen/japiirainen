@@ -1,5 +1,5 @@
 I work as a software engineer @[Adalyon](https://www.adalyon.com/).
-Broadly, I'm interested in writing correct software.
+I'm interested in proof assistants, mathematics and writing correct software.
 
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
