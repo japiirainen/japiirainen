@@ -20,7 +20,7 @@ I'm interested in proof assistants, mathematics and writing correct software.
 - [**oluet-api**](https://github.com/japiirainen/go-oluet-api), Graphql API for querying all kinds of beer and other drinks!
 
 ### System configurations
-- My development macbook [**configuration**](https://github.com/japiirainen/darwin).
+- My development macbook [**configurations**](https://github.com/japiirainen/darwin).
 
 ### Sources for my personal website/blog
 - Hakyll [*site*](https://github.com/japiirainen/japiirainen.github.io).
