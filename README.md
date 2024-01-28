@@ -23,4 +23,4 @@ I'm interested in proof assistants, mathematics and writing correct software.
 - My development macbook [**configurations**](https://github.com/japiirainen/darwin).
 
 ### Sources for my personal website/blog
-- Hakyll [*site*](https://github.com/japiirainen/japiirainen.github.io).
+- Personal [*website*](https://github.com/japiirainen/japiirainen.github.io).
