@@ -1,5 +1,6 @@
 I work as a software engineer @[Adalyon](https://www.adalyon.com/).
-I'm interested in proof assistants, mathematics and writing correct software.
+I'm interested writing correct software.
+As a hobby I enjoy doing recreational mathematics and PL theory.
 
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
