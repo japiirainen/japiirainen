@@ -1,5 +1,5 @@
 I work as a software engineer @[Adalyon](https://www.adalyon.com/).
-I'm interested writing correct software.
+Broadly, I'm interested writing correct software.
 As a hobby I enjoy doing recreational mathematics and PL theory.
 
 ### Some of my hobby projects
