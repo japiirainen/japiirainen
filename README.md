@@ -1,6 +1,6 @@
 I work as a software engineer @[Adalyon](https://www.adalyon.com/).
 Broadly, I'm interested writing correct software.
-As a hobby I enjoy doing recreational mathematics and PL theory.
+As a hobby I enjoy doing recreational mathematics and programming language theory.
 
 ### Some of my hobby projects
 - [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
