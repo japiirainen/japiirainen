@@ -1,6 +1,5 @@
 I work as a software engineer @[Adalyon](https://www.adalyon.com/).
 Broadly, I'm interested writing correct software.
-
 As a hobby I enjoy doing recreational mathematics, programming language theory and rock climbing.
 
 ### Some of my hobby software projects
