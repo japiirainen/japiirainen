@@ -12,7 +12,6 @@ As a hobby I do recreational mathematics, programming language theory and rock c
 - [***nns***](https://github.com/japiirainen/nns), hello world machine learning examples
 - [***gists***](https://github.com/japiirainen/gists), my greatest github gists as a single repository.
 - [**Myy**](https://github.com/japiirainen/myy), a lambda calculus interpreter.
-- [**js-quiz**](https://github.com/japiirainen/js-quiz), A website for learning Javascript.
 - [**oluet-api**](https://github.com/japiirainen/go-oluet-api), Graphql API for querying all kinds of beer and other drinks!
 
 ### System configurations
