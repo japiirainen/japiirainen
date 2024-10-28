@@ -1,4 +1,4 @@
-I work as a software engineer @[Adalyon](https://www.adalyon.com/).
+I work as a software engineer @[Taito.ai](https://www.taito.ai).
 Broadly, I'm interested writing correct software.
 As a hobby I do recreational mathematics, programming language theory and rock climbing.
 
