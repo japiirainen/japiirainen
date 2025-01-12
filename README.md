@@ -17,5 +17,5 @@ As a hobby I do recreational mathematics, programming language theory and rock c
 ### System configurations
 - [***nix-darwin***](https://github.com/LnL7/nix-darwin) [***configurations***](https://github.com/japiirainen/darwin) for my personal/work macbooks.
 
-### Sources for my personal website/blog
+### Sources for my site
 - Personal [*website*](https://github.com/japiirainen/japiirainen.github.io).
