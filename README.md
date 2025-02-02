@@ -15,7 +15,7 @@ As a hobby I do recreational mathematics, programming language theory and rock c
 - [**oluet-api**](https://github.com/japiirainen/go-oluet-api), Graphql API for querying information on beer and other tasty drinks!
 
 ### System configurations
-- [**nix-darwin**](https://github.com/LnL7/nix-darwin) [**configurations**](https://github.com/japiirainen/darwin) for my development machines.
+- [***nix-darwin***](https://github.com/LnL7/nix-darwin) [**configurations**](https://github.com/japiirainen/darwin) for my development machines.
 
 ### Sources for my site
 - Personal [**website**](https://github.com/japiirainen/japiirainen.github.io).
