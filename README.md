@@ -3,7 +3,7 @@ Broadly, I'm interested writing correct software.
 As a hobby I do recreational mathematics, programming language theory and rock climbing.
 
 ### Some of my hobby projects
-- [**fp**](https://github.com/japiirainen/fp), A point-free programming language.
+- [***fp***](https://github.com/japiirainen/fp), A point-free programming language.
 - [**vl**](https://github.com/japiirainen/vl), Shell scripts in TypeScript.
 - [**sp**](https://github.com/japiirainen/sp), A command-line tool for interacting with spotify.
 - [**lines**](https://github.com/japiirainen/lines), CLI tool for generating line counts of a project.
