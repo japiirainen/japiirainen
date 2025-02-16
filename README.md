@@ -4,7 +4,7 @@ As a hobby I do recreational mathematics, programming language theory and rock c
 
 ### Some of my hobby projects
 - [***fp***](https://github.com/japiirainen/fp), A point-free programming language.
-- [**vl**](https://github.com/japiirainen/vl), Shell scripts in TypeScript.
+- [***vl***](https://github.com/japiirainen/vl), Shell scripts in TypeScript.
 - [**sp**](https://github.com/japiirainen/sp), A command-line tool for interacting with spotify.
 - [**lines**](https://github.com/japiirainen/lines), CLI tool for generating line counts of a project.
 - [**Advent Of Code**](https://adventofcode.com/) is the worlds largest programming competition, taking place every year during december, in which I've participated for many years. 🎄
