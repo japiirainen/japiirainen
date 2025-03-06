@@ -18,4 +18,4 @@ As a hobby I do recreational mathematics and bouldering.
 - [***nix-darwin***](https://github.com/LnL7/nix-darwin) [**configurations**](https://github.com/japiirainen/darwin) for my development machines.
 
 ### Sources for my site
-- Personal [**website**](https://github.com/japiirainen/japiirainen.github.io).
+- Personal [***website***](https://github.com/japiirainen/japiirainen.github.io).
