@@ -1,6 +1,6 @@
 I work as a software engineer @[Taito.ai](https://www.taito.ai).
 Broadly, I'm interested writing correct software.
-As a hobby I do recreational mathematics and bouldering.
+In addition to this I enjoy doing recreational mathematics and bouldering.
 
 ### Some of my hobby projects
 - [***fp***](https://github.com/japiirainen/fp), A point-free programming language.
