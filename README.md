@@ -12,7 +12,7 @@ In addition to this I enjoy doing recreational mathematics and bouldering.
 - [***nns***](https://github.com/japiirainen/nns), educational machine learning examples.
 - [***gists***](https://github.com/japiirainen/gists), my greatest github gists as a single repository.
 - [***Myy***](https://github.com/japiirainen/myy), a simple interpreter for a lambda calculus based language.
-- [***oluet-api***](https://github.com/japiirainen/go-oluet-api), Graphql API for querying information on beer and other tasty drinks!
+- [***oluet-api***](https://github.com/japiirainen/go-oluet-api), Graphql API for querying information on beer and other tasty drinks.
 
 ### System configurations
 - [***nix-darwin***](https://github.com/LnL7/nix-darwin) [**configurations**](https://github.com/japiirainen/darwin) for my development machines.
