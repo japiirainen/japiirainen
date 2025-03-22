@@ -17,5 +17,5 @@ In addition to this I enjoy doing recreational mathematics and bouldering.
 ### System configurations
 - [***nix-darwin***](https://github.com/LnL7/nix-darwin) [**configurations**](https://github.com/japiirainen/darwin) for my development machines.
 
-### Sources for my site
+### Sources for my website
 - Personal [***website***](https://github.com/japiirainen/japiirainen.github.io).
