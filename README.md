@@ -1,5 +1,5 @@
 I work as a software engineer @[Taito.ai](https://www.taito.ai).
-Broadly, I'm interested writing correct software.
+Broadly, I'm interested in writing correct software.
 In addition to this I enjoy doing recreational mathematics and bouldering.
 
 ### Some of my hobby projects
