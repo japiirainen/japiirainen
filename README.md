@@ -14,7 +14,7 @@ In addition to this I enjoy doing recreational mathematics and bouldering.
 - [***Myy***](https://github.com/japiirainen/myy), a simple interpreter for a lambda calculus based language.
 - [***oluet-api***](https://github.com/japiirainen/go-oluet-api), Graphql API for querying information on beer and other tasty drinks.
 
-### System configurations
+### System configuration
 - [***nix-darwin***](https://github.com/LnL7/nix-darwin) [**configurations**](https://github.com/japiirainen/darwin) for my development machines.
 
 ### Sources for my website
